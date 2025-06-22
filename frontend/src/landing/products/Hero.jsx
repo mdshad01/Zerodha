@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Hero = () => {
   return (
-    <div className="flex h-[100vh] w-full flex-col items-center pt-17">
+    <div className="flex h-[50vh] w-full flex-col items-center border-b-1 border-[#66666611] pt-7">
       <h1 className="mt-18 text-5xl font-medium tracking-normal text-[#424242]">
         Zerodha Products
       </h1>
