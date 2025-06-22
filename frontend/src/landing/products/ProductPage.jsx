@@ -5,6 +5,7 @@ import Hero from './Hero';
 import LeftSection from './LeftSection';
 import RightSection from './RightSection';
 import { Link } from 'react-router-dom';
+import Universe from './Universe';
 
 const ProductPage = () => {
   return (
@@ -50,6 +51,7 @@ const ProductPage = () => {
         Want to know more about our technology stack? Check out the
         <Link className="font-medium text-[#387de1]"> Zerodha.tech</Link> blog.
       </div>
+      <Universe />
     </>
   );
 };
