@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export const OpenAccount = () => {
   return (
     <div className="h-[40vh] text-center">
-      <h2 className="mb-5 text-4xl font-medium text-[#424242]">404 Not Found</h2>
+      <h2 className="mb-5 text-4xl font-medium text-[#424242]">Open a Zerodha account</h2>
       <p className="mb-10 text-[#666666]">
         Modern platforms and apps, ₹0 investments, and flat ₹20 intraday and F&O trades
       </p>
